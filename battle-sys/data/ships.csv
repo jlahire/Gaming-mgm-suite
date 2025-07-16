@@ -1,0 +1,108 @@
+Name,Type,Class,Row,Abbv,CP,Count,Weapon1,Weapon2,Weapon3,Weapon4,AntiShip,AntiAir,Siege,HP,Armor,Repair,Scrap
+,Identifier (s),,,,Fleet,,Weapon (s),,,,Firepower,,,Durability,,Speed
+Ship Name,Type (s),Class,Row,Abbv.,CP,Count,Weapon (1),Weapon (2),Weapon (3),Weapon (4),AntiAirShip,AntiAirAir,Siege,HP,Armor,Cruise,Warp
+Ac721 [A],Generic,Destroyer,Middle row,DD,8,15,Cannon [S] [M],Cannon [S],Aircraft Missile [M],,2320,3583,125,31240,5,800,4000
+Ac721 [B],Missile,Destroyer,Back row,DD,8,15,Missile [M],Cannon,Aircraft Missile [M],,3900,3583,345,31240,5,800,4000
+Ac721 [C],Ion Cannon,Destroyer,Back row,DD,8,15,Ion Cannon [M],Aircraft Missile [M],,,5250,616,1155,31240,20,750,3750
+Ac721 [D],Aircraft,Destroyer,Middle row,DD,8,15,Dual Cannon,Generic Cannon,,,1700,693,181,28130,20,800,4000
+Aldabra [A],Generic,Destroyer,Front row,DD,8,10,Cannon [M],Cannon [M],Aircraft Cannon,,7450,2240,775,32980,30,650,3250
+Aldabra [B],Armored,Destroyer,Front row,DD,8,10,Heavy Cannon [M],Small Cannon,,,5800,800,1048,32980,45,650,3250
+B192 Newland [A],MultiAirRole,Fighter,Air,F,1,10,Cannon [M],Missile,,,600,600,90,4290,0,3000,15000
+Balancer Anderson [A],Interference,Fighter,Air,F,1,10,Cannon,,,,300,288,0,3250,0,3000,15000
+Bullfrog [A],Siege,Fighter,Air,F,1,10,Torpedo [M],,,,1000,0,440,4240,0,3000,15000
+Callisto [A],Torpedo,Cruiser,Back row,CR,20,8,Torpedo [M],Cannon [S],,,15050,1400,3983,70810,40,400,2000
+Callisto [B],AntiAirShip,Cruiser,Back row,CR,20,8,Torpedo [M],Cannon [S],,,18504,840,3728,70810,40,400,2000
+Callisto [C],Auxiliary,Cruiser,Back row,CR,20,8,Torpedo [M],Cannon [S],,,11550,5100,3003,70810,40,400,2000
+Carilion [A],Recon,Frigate,Front row,FF,4,10,Cannon [S],Cannon [S],,,1575,1500,315,7640,5,1100,5500
+Carilion [B],Heavy Cannon,Frigate,Front row,FF,5,10,Cannon [M],Cannon [S],,,2571,640,540,9000,5,950,4750
+Carilion [C],AntiAirAircraft,Frigate,Front row,FF,5,10,Cannon [S],Cannon [S],,,1575,992,315,8940,5,1100,5500
+Cas066 [A],Integrated,Cruiser,Front row,CR,18,12,Torpedo [M],Cannon [M],Cannon [S],,11588,1440,3299,61850,50,500,2500
+Cas066 [B],Artillery,Cruiser,Middle row,CR,18,12,Railgun [M],Cannon [S],,,15646,1260,6423,56320,50,500,2500
+Cas066 [C],Aircraft,Cruiser,Middle row,CR,18,12,Cannon [M],Cannon [S],,,4650,1440,724,59040,50,500,2500
+Cellular Defender [A],MultiAirRole,Corvette,Air,Cor,2,10,Torpedo [M],Cannon [S],Cannon [S],,4980,1803,1656,6100,2,2500,12500
+Ceres [A],Aircraft,Destroyer,Back row,DD,8,10,Cannon,,,,1800,1195,252,29570,20,850,4250
+Ceres [B],Support,Destroyer,Back row,DD,8,10,Cannon,,,,1800,4075,252,29570,20,850,4250
+Ceres [C],Tactical,Destroyer,Back row,DD,8,10,Cannon,,,,1800,1195,252,29570,20,850,4250
+Chimera [A],Ballistic,Cruiser,Front row,CR,20,8,Cannon [M],Cannon [S],Missile [M],,15804,1200,1893,77240,80,450,2250
+Chimera [B],Heavy Cannon,Cruiser,Front row,CR,20,8,Cannon [L],Cannon [M],Cannon [S],,18875,1200,3342,77240,80,450,2250
+Chimera [C],Defensive,Cruiser,Front row,CR,20,8,Cannon [M],Missile [M],,,11331,0,2415,84040,130,450,2250
+Conomara Chaos [A],Railgun,Cruiser,Middle row,CR,20,8,Railgun [M],Cannon [S],,,12960,3072,1320,61850,30,450,2250
+Conomara Chaos [B],Plasma,Cruiser,Back row,CR,20,8,Plasma Cannon [M],Cannon [S],,,16388,3072,2622,61850,30,450,2250
+Constantine The Great [A],MultiAirRole,Battlecruiser,Middle row,BC,35,5,Ion Cannon [M],Missile [M],,,33000,0,3810,125840,160,400,2000
+CV11003 [A],MultiAirRole,Corvette,Air,Cor,2,10,Cannon [M] [M],Cannon [S] [M],,,2520,237,418,4500,2,2500,12500
+CV3000 [A],Missile,Corvette,Back row,Cor,2,10,Missing,,,,3200,1280,240,6900,2,2500,12500
+CVM011 [A],Cannon,Corvette,Air,Cor,2,10,Missile [M],Cannon [S],,,3050,1280,247,6950,2,2500,12500
+CVM011 [B],AntiAirAircraft,Corvette,Air,Cor,2,15,Cannon [M] [M],Cannon [S],,,2400,3192,48,6900,2,2500,12500
+CVT800 [A],HighAirSpeed,Carrier,Air,CA,40,5,Pulse Turret [M],,,,7300,712,619,254740,120,400,2000
+Eris [A],Cannon,Destroyer,Middle row,DD,7,10,Cannon [M],,,,4000,1800,320,27960,20,900,4500
+Eris [B],Heavy Cannon,Destroyer,Front row,DD,7,10,Cannon [L] [M],Cannon [M] [M],,,5672,1680,1239,27960,20,850,4250
+Eris [C],Armored,Destroyer,Front row,DD,7,10,Cannon [M],,,,4000,1800,320,31240,30,850,4250
+Eternal Storm [A],Attack,Battlecruiser,Middle row,BC,32,5,Ion Cannon [M],Missile [M],Torpedo,,28900,1663,4899,130460,180,450,2250
+Fg300 [A],MultiAirRole,Frigate,Middle row,FF,3,15,Cannon [S],,,,1928,539,270,9650,5,1000,5000
+Fg300 [B],Armored,Frigate,Front row,FF,3,15,Missing,,,,1285,891,180,11150,15,1000,5000
+Fg300 [C],Recon,Frigate,Middle row,FF,3,15,Missing,,,,642,737,90,11150,5,1100,5000
+Guardian [A],Support,Destroyer,Middle row,DD,9,10,Missile [M] [M],,,,3490,3316,349,23490,20,650,3250
+Guardian [B],Aircraft,Destroyer,Back row,DD,9,10,Missile [M] [M],,,,3490,1396,349,23490,20,650,3250
+Guardian [C],Pulse Cannon,Destroyer,Front row,DD,9,10,Pulse Cannon [L] [M],Pulse Cannon [S] [M],,,6210,1242,400,23490,20,650,3250
+Io [A],Ion Cannon,Cruiser,Front row,CR,18,8,Ion Cannon [M],Cannon [S],"Missile [M] ",,19928,1260,3753,53690,50,650,3250
+Io [B],AntiAirShip,Cruiser,Front row,CR,18,8,Ion Cannon [M],Cannon [S],Missile [M],,15860,1260,946,53690,50,650,3250
+Io [C],Siege,Cruiser,Front row,CR,18,8,Ion Cannon [M],Cannon [S],"Missile [M] ",,15990,2085,11979,53690,50,650,3250
+Jaeger [A],Auxiliary,Cruiser,Back row,CR,18,8,Cannon [M],Cannon [S],,,3866,1652,273,67730,50,500,2500
+Jaeger [B],AntiAirShip,Cruiser,Back row,CR,18,8,Cannon [L],Cannon [M],Cannon [S],,9008,1653,1147,67730,50,500,2500
+Janibiya [A],AntiAirShip,Fighter,Air,F,1,10,Cannon [M],Missile [M],,,790,664,82,3750,0,3000,15000
+KCCPV2.0 [A],Integrated,Cruiser,Back row,CR,16,12,Missile [M] [M],Torpedo's [M],Cannon [S],Cannon [S],9592,2358,1965,46260,50,650,3250
+KCCPV2.0 [B],Pulse Cannon,Cruiser,Middle row,CR,16,12,Pulse Cannon [M],Missile [M],Cannon [S],,9685,1860,734,46260,50,650,3250
+KCCPV2.0 [C],Railgun,Cruiser,Middle row,CR,16,12,Railgun [M],Cannon [S],Missile [M],,10285,1860,3632,46260,50,650,3250
+KCCPV2.0 [D],Aircraft,Cruiser,Back row,CR,16,12,"Missile [M] ",Cannon [S],,,5485,1560,464,46260,50,650,3250
+Light Cone [A],Generic,Cruiser,Middle row,CR,20,8,Missile [M] [M] [M],Missile [M] [S] [M],Cannon [S],,14142,6940,1072,61850,50,450,2250
+Light Cone [B],AntiAirAircraft,Cruiser,Middle row,CR,20,8,Missile [M] [M] [M],Cannon [S],,,7200,11280,570,61850,50,450,2250
+Light Cone [C],Assault,Cruiser,Middle row,CR,20,8,Missile [M] [M] [M],Cannon [S],Missile [M] (AA) [M],,14850,630,1372,61850,50,450,2250
+Mare Nubium [A],Assault,Frigate,Back row,FF,4,10,Missing,,,,1028,0,1532,8270,5,900,4500
+Mare Nubium [B],AntiAirAircraft,Frigate,Middle row,FF,4,10,Missing,,,,857,3737,0,8270,5,900,4500
+Mare Serenitatis [A],AntiAirShip,Frigate,Back row,FF,5,10,Torpedo [M],Cannon [S],,,4071,1194,951,13710,5,900,4500
+Mare Serenitatis [B],Missile,Frigate,Back row,FF,5,10,Missile [M],Cannon [S],,,3033,1194,298,13710,5,900,4500
+Mare Serenitatis [C],AntiAirAircraft,Frigate,Back row,FF,5,10,Missing,,,,1860,4266,0,13710,5,900,4500
+Mare Tranquillitatis [A],Integrated,Frigate,Middle row,FF,4,10,Cannon [M],Missile [M],,,2635,1439,328,11310,5,1000,5000
+Mare Tranquillitatis [B],Pulse Cannon,Frigate,Middle row,FF,4,10,Missile [M],"AA Pulse Cannon ",,,1350,2460,148,11310,5,1000,5000
+Mare Tranquillitatis [C],AntiAirAircraft,Frigate,Middle row,FF,4,10,Missing,,,,2030,1497,120,11310,5,1000,5000
+Marshal Crux [A],Carrier,Carrier,Back row,CA,40,5,Missing,,,,16660,1152,1908,254740,90,400,2000
+Mistral [A],AntiAirAircraft,Fighter,Air,F,1,10,Cannon [M],,,,553,885,0,5000,0,3000,15000
+Nebula Chaser [A],Ballistic,Corvette,Air,Cor,2,10,Cannon [M],Missile,,,3120,667,588,5650,2,2500,12500
+Nebula Chaser [B],Pulse Cannon,Corvette,Air,Cor,2,10,Pulse Missile [M],,,,3200,3200,64,4950,2,2500,12500
+Noma M470 [A],Siege,Frigate,Back row,FF,6,10,Missing,,,,600,384,1650,12810,5,800,4000
+Noma M470 [B],Support(healer),Frigate,Back row,FF,6,10,Missing,,,,600,384,138,12810,5,800,4000
+Noma M470 [C],AntiAirAircraft,Frigate,Back row,FF,6,10,Missing,,,,600,2304,138,12810,5,800,4000
+Predator [A],Generic,Cruiser,Back row,CR,18,8,Missile [M] [M],Cannon [S],,,4171,2152,119,67730,50,500,2500
+Predator [B],Tactical,Cruiser,Back row,CR,18,8,Cannon [S],,,,1200,1440,60,67730,50,500,2500
+Predator [C],AntiAirAircraft,Cruiser,Back row,CR,18,8,Cannon [S],AA Missile [M],,,1200,4232,60,67730,50,500,2500
+Quaoar [A],Railgun,Destroyer,Middle row,DD,6,10,Railgun [M],Railgun Turret [M],,,5174,229,506,27960,20,850,4250
+Quaoar [B],Torpedo,Destroyer,Middle row,DD,6,10,Torpedo [M],Missile [M],,,5684,1280,381,27960,20,850,4250
+Redbeast,Offensive,Corvette,Air,Cor,2,10,Missile [M],,,,2640,580,184,4750,2,2500,12500
+Reliat [A],AntiAirShip,Frigate,Middle row,FF,4,10,Torpedo [M],Cannon [S],,,3520,716,330,9650,5,800,4000
+Reliat [B],Torpedo,Frigate,Middle row,FF,4,10,Torpedo [M],,,,3088,576,874,9650,5,800,4000
+Reliat [C],Stealth,Frigate,Middle row,FF,4,10,Energy Torpedo [M],"Pulse Cannon ",,,3428,0,205,9650,5,800,4000
+Ruby [A],Railgun,Frigate,Middle row,FF,5,10,Railgun [M],Cannon [S],,,3920,504,658,15120,5,900,4500
+Ruby [B],Ion Cannon,Frigate,Middle row,FF,5,10,Ion Cannon [M],,,,4743,2760,711,13710,5,900,4500
+Ruby [C],Defensive,Frigate,Front row,FF,5,10,Torpedo [M],,,,1728,0,656,15620,40,900,4500
+Sandrake [A],DualAirPurpose,Fighter,Air,F,1,10,Missile [M],Cannon [M],,,246,895,0,3900,0,3000,15000
+SC002 [A],Generic,Fighter,Air,F,1,10,"Cannon ",,,,234,234,0,2700,0,3000,15000
+Silent Assassin [A],HighAirSpeed,Corvette,Air,Cor,2,10,Cannon [M],,,,2250,0,630,4900,6,2500,12500
+Solar Whale [A],Armed Tactical,Carrier,Middle row,CA,45,5,Missing,,,,10031,510,959,292890,120,250,1250
+Spear of Uranus [A],Heavy,Battlecruiser,Front row,BC,35,5,Railgun [M],Fortress Cannons [L],Fortress Cannon [M],Fortress Cannon [S],27700,1720,14385,160450,240,250,1250
+Spore [A],AntiAirAircraft,Fighter,Air,F,1,10,Cannon [M],,,,276,664,0,3250,0,3000,15000
+ST59 [A],Defensive,Battlecruiser,Middle row,BC,28,5,Railgun [M],Cannon [M],Cannon [S],,19200,1440,4566,121350,180,250,1250
+Stingray [A],Stealth,Fighter,Air,F,1,10,Torpedo [M],,,,1600,0,496,4780,0,3000,15000
+Strix [A],AntiAirShip,Fighter,Air,F,1,10,Pulse Cannon [M],,,,663,763,132,4500,0,3000,15000
+Taurus [A],Offensive,Destroyer,Front row,DD,8,10,Pulse Turret [M] [M],Pulse Turret [S] [M],,,6210,2994,338,32980,20,650,3250
+Taurus [B],Assault,Destroyer,Front row,DD,8,10,Pulse Turret [M] [M],,,,6555,2173,1552,36640,30,650,3250
+Taurus [C],Defensive,Destroyer,Front row,DD,8,10,Pulse Turret [L] [M],Pulse Turret [S] [M],,,4830,4443,338,36640,30,650,3250
+Tundra [A],Support,Destroyer,Back row,DD,9,10,Cannon,,,,2250,4470,157,36640,20,700,3500
+Tundra [B],Aircraft,Destroyer,Back row,DD,9,10,Cannon,Torpedo,,,2970,630,322,36640,20,700,3500
+VitasAirA021 [A],AntiAirShip,Fighter,Air,F,1,10,--,--,--,--,1206,300,181,4920,3,3000,15000
+VitasAirB010 [A],AntiAirShip,Fighter,Air,F,1,10,--,--,--,--,2294,0,848,5340,10,3000,15000
+Void Elfin [A],Offensive,Corvette,Air,Cor,2,10,Missile [M],Cannon,,,3980,655,315,4750,2,2500,12500
+Winged Hussar [A],AntiAirShip,Destroyer,Middle row,DD,6,10,Missile [M] [M],Cannon [L],,,4720,1433,1367,20780,20,700,3500
+Winged Hussar [B],Integrated,Destroyer,Back row,DD,6,10,Missile [M] [M],Torpedo [M],,,4500,1501,366,20780,20,850,4200
+Winged Hussar [C],Area Denial,Destroyer,Front row,DD,6,10,Missile [M] [M],,,,3600,2052,72,20780,30,850,4200
+Xenostinger [A],Special,Frigate,Back row,FF,6,10,Missing,,,,6320,576,1148,9650,5,800,4000
+Xenostinger [B],Defensive,Frigate,Back row,FF,6,10,Missing,,,,720,4160,28,9650,5,800,4000

@@ -26,12 +26,14 @@ This is a collection of tools I made for the game Infinite Lagrange back when I 
 |-- battle-sys
 |   |-- WIP_BS.xlsx
 |   `-- data
+|       |-- ships.csv
+|       `-- wepons.csv
 |-- group-mgm
 |   |-- Swarm.xlsx
 |   `-- data
+|       `-- members.csv
 `-- tournaments
     |-- IFL Tournament 1.xlsx
     `-- data
-
-6 directories, 4 files
+        `-- results.csv
 ```
